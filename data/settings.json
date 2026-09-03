@@ -1,8 +1,8 @@
 {
-    "site_name": "Profie-IT.nl",
-    "site_description": "Reliable hosting, VPS and web development for everyone",
-    "company_email": "info@profie-it.nl",
-    "company_phone": "+31 6 12345678",
+    "site_name": "Justbill.xyz",
+    "site_description": "Example Change in Admin ",
+    "company_email": "Support@example.com",
+    "company_phone": "Edit in admin",
     "currency": "EUR",
     "currency_symbol": "\u20ac",
     "ipv4_price": 1.5,
@@ -26,14 +26,14 @@
     ],
     "partners": [
         {
-            "name": "AS205838",
-            "description": "Network \/ AS partner",
-            "url": ""
+            "name": "Example Change in Admin",
+            "description": "Example",
+            "url": "Example.com"
         },
         {
-            "name": "IVB-Netwerk.nl",
-            "description": "Network partner",
-            "url": "https:\/\/ivb-netwerk.nl"
+            "name": "Justbill",
+            "description": "Example :)",
+            "url": "https://github.com/Peer-W/Justbill/"
         }
     ]
 }

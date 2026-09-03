@@ -4,8 +4,8 @@
     "smtp_user": "",
     "smtp_pass": "",
     "smtp_secure": "tls",
-    "from_email": "noreply@profie-it.nl",
-    "from_name": "Profie-IT.nl",
-    "followup_subject": "Follow-up on your order at Profie-IT.nl",
+    "from_email": "noreply@example.com",
+    "from_name": "Example.Justbill",
+    "followup_subject": "Follow-up on your order at Justbill",
     "followup_body": "Hi {name},\n\nThank you for your recent order ({product}). We wanted to follow up to make sure everything is set up correctly and to answer any questions you may have.\n\nIf you need anything, simply reply to this email or open a ticket in your dashboard.\n\nKind regards,\nThe Profie-IT.nl Team"
 }

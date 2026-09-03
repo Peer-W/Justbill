@@ -1,6 +1,6 @@
 {
-    "public_key": "",
-    "secret_key": "",
-    "webhook_secret": "",
+    "public_key": "hidden-For-Privacy",
+    "secret_key": "hidden-For-Privacy",
+    "webhook_secret": "hidden-For-Privacy",
     "enabled": false
 }

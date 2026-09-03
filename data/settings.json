@@ -20,8 +20,8 @@
             "label": "Customers"
         },
         {
-            "value": "NL",
-            "label": "Datacenters"
+            "value": "Example",
+            "label": "Change this in admin"
         }
     ],
     "partners": [

@@ -1,0 +1,15 @@
+{
+    "primary_color": "#2563eb",
+    "secondary_color": "#0ea5e9",
+    "background_color": "#0f172a",
+    "card_color": "#1e293b",
+    "text_color": "#f8fafc",
+    "muted_color": "#94a3b8",
+    "logo": "logo.png",
+    "favicon": "favicon.ico",
+    "dark_mode": true,
+    "font_family": "Inter",
+    "error_404": "Page not found",
+    "error_403": "Access denied",
+    "error_500": "Server error"
+}

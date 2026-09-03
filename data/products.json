@@ -1,0 +1,74 @@
+[
+    {
+        "id": "webhosting-starter",
+        "category": "webhosting",
+        "name": "Webhosting Starter",
+        "description": "Perfect for small websites",
+        "price": 4.99,
+        "billing_cycle": "monthly",
+        "features": [
+            "5GB SSD Storage",
+            "1 Website",
+            "Free SSL",
+            "Email accounts"
+        ],
+        "stripe_price_id": "",
+        "keyhelp_package_id": "",
+        "enabled": true
+    },
+    {
+        "id": "webhosting-pro",
+        "category": "webhosting",
+        "name": "Webhosting Pro",
+        "description": "For growing businesses",
+        "price": 9.99,
+        "billing_cycle": "monthly",
+        "features": [
+            "25GB SSD Storage",
+            "5 Websites",
+            "Free SSL",
+            "Unlimited Email"
+        ],
+        "stripe_price_id": "",
+        "keyhelp_package_id": "",
+        "enabled": true
+    },
+    {
+        "id": "vps-basic",
+        "category": "vps",
+        "name": "VPS Basic",
+        "description": "Powerful virtual server",
+        "price": 14.99,
+        "billing_cycle": "monthly",
+        "features": [
+            "2 vCPU",
+            "4GB RAM",
+            "50GB SSD",
+            "Root Access",
+            "1 IPv4 included"
+        ],
+        "stripe_price_id": "",
+        "keyhelp_package_id": "",
+        "is_vps": true,
+        "included_ipv4": 1,
+        "enabled": true
+    },
+    {
+        "id": "webdev-custom",
+        "category": "webdevelopment",
+        "name": "Custom Website \/ Node.js Project",
+        "description": "Tailor-made website or Node.js application built by our team",
+        "price": 0,
+        "billing_cycle": "once",
+        "features": [
+            "Custom design",
+            "Node.js \/ full-stack development",
+            "Personal project manager",
+            "Quote on request"
+        ],
+        "stripe_price_id": "",
+        "keyhelp_package_id": "",
+        "is_quote": true,
+        "enabled": true
+    }
+]

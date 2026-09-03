@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "id": "getting-started",
+            "name": "Getting Started",
+            "icon": "book"
+        },
+        {
+            "id": "billing",
+            "name": "Billing",
+            "icon": "credit-card"
+        },
+        {
+            "id": "hosting",
+            "name": "Hosting",
+            "icon": "server"
+        },
+        {
+            "id": "support",
+            "name": "Support",
+            "icon": "help-circle"
+        }
+    ],
+    "articles": [
+        {
+            "id": "welcome",
+            "category": "getting-started",
+            "title": "Welcome to Profie-IT.nl",
+            "content": "Welcome to Profie-IT.nl! Here you will find all the information to get started.",
+            "created_at": "2026-08-10 18:15:25"
+        }
+    ]
+}

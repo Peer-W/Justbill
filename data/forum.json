@@ -1,0 +1,21 @@
+{
+    "categories": [
+        {
+            "id": "general",
+            "name": "General",
+            "description": "General discussions"
+        },
+        {
+            "id": "support",
+            "name": "Support",
+            "description": "Ask for help"
+        },
+        {
+            "id": "announcements",
+            "name": "Announcements",
+            "description": "News and updates"
+        }
+    ],
+    "topics": [],
+    "posts": []
+}

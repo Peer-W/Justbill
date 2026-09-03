@@ -1,0 +1,26 @@
+[
+    {
+        "id": "webhosting",
+        "name": "Webhosting",
+        "icon": "globe",
+        "order": 1
+    },
+    {
+        "id": "vps",
+        "name": "VPS Servers",
+        "icon": "server",
+        "order": 2
+    },
+    {
+        "id": "webdevelopment",
+        "name": "Web Development",
+        "icon": "code",
+        "order": 3
+    },
+    {
+        "id": "tools",
+        "name": "Tools",
+        "icon": "tool",
+        "order": 4
+    }
+]

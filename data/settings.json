@@ -1,0 +1,39 @@
+{
+    "site_name": "Profie-IT.nl",
+    "site_description": "Reliable hosting, VPS and web development for everyone",
+    "company_email": "info@profie-it.nl",
+    "company_phone": "+31 6 12345678",
+    "currency": "EUR",
+    "currency_symbol": "\u20ac",
+    "ipv4_price": 1.5,
+    "stats": [
+        {
+            "value": "99.9%",
+            "label": "Uptime"
+        },
+        {
+            "value": "24\/7",
+            "label": "Support"
+        },
+        {
+            "value": "100+",
+            "label": "Customers"
+        },
+        {
+            "value": "NL",
+            "label": "Datacenters"
+        }
+    ],
+    "partners": [
+        {
+            "name": "AS205838",
+            "description": "Network \/ AS partner",
+            "url": ""
+        },
+        {
+            "name": "IVB-Netwerk.nl",
+            "description": "Network partner",
+            "url": "https:\/\/ivb-netwerk.nl"
+        }
+    ]
+}

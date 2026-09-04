@@ -70,7 +70,7 @@ function productPriceLabel($product, $settings) {
                     <div class="nav-actions">
                         <?php if (isLoggedIn()): ?>
                             <a href="client/" class="btn btn-ghost">Dashboard</a>
-                            <a href="client/?action=logout" class="btn btn-outline">Log out</a>
+                            <a href="client/?action=logout" class="btn btn-outline">Log-out</a>
                         <?php else: ?>
                             <a href="client/?page=login" class="btn btn-ghost">Log in</a>
                             <a href="client/?page=register" class="btn btn-primary">Sign up</a>

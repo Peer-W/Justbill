@@ -12,8 +12,8 @@
         "order": 2
     },
     {
-        "id": "webdevelopment",
-        "name": "Web Development",
+        "id": "example",
+        "name": "example",
         "icon": "code",
         "order": 3
     },
